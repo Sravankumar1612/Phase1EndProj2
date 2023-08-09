@@ -1,0 +1,20 @@
+***Create a Text-file Based System For Storing and Updating Teacher Records***
+
+1.Create a class named Teachers.cs to get teachers data
+
+2.Create another Class to Perform operations on the data received from teachers.cs
+
+3.With the help of program .cs perform the operations of
+	->Adding techers data
+	->Retrive data
+	->Update operations with the help of Switch cases
+4.Push the code to the git.
+with the help of commands
+  
+	git push -u origin master
+5.End of program
+
+
+
+
+Git Link: https://github.com/Sravankumar1612/Phase1EndProj2
