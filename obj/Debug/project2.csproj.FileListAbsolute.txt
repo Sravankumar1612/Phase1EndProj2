@@ -1,0 +1,8 @@
+E:\Dotnet\Phase1\project2\project2\bin\Debug\project2.exe.config
+E:\Dotnet\Phase1\project2\project2\bin\Debug\project2.exe
+E:\Dotnet\Phase1\project2\project2\bin\Debug\project2.pdb
+E:\Dotnet\Phase1\project2\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+E:\Dotnet\Phase1\project2\project2\obj\Debug\project2.csproj.SuggestedBindingRedirects.cache
+E:\Dotnet\Phase1\project2\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+E:\Dotnet\Phase1\project2\project2\obj\Debug\project2.exe
+E:\Dotnet\Phase1\project2\project2\obj\Debug\project2.pdb
